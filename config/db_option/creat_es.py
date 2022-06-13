@@ -198,7 +198,7 @@ def judgeIndex(index_name, request_body):
 
 if __name__ == '__main__':
     es = Elasticsearch(
-        ['127.0.0.1:9200'],
+        [''],
         sniff_on_connection_fail=True,
         sniffer_timeout=60
     )
