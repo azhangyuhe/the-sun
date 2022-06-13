@@ -84,4 +84,4 @@ def elasticsearch_test():
         return False
 
 
-option = EsOption('114.116.11.72', 60000, 'scan_ip', 'scan_domain')
+
