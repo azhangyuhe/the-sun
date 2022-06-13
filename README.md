@@ -108,7 +108,7 @@ elasticsearch用于做搜索引擎将扫描端的获取的数据存入elasticsea
 
 mysql存储关系型数据，poc与ip的关系，扫描记录，用户信息等等
 
-![](img\项目整体结构.jpg)
+![](img/项目整体结构.jpg)
 
 本项目vue与java只是负责前端展示和web服务，此处流程忽略。
 
