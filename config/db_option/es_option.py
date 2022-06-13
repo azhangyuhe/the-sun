@@ -14,9 +14,9 @@ from core.Global import LOGGER
 def es_connect():
     es = Elasticsearch(
         ['114.116.11.72'],
-        http_auth=('elastic', 'ab5f15g6113*A0C5#'),
-        port=60000,
-        timeout=50000,
+        http_auth=('', ''),
+        port=,
+        timeout=,
         max_retries=3,
         retry_on_timeout=True)
     return es
